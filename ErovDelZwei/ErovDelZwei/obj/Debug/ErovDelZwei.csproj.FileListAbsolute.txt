@@ -1,0 +1,7 @@
+C:\Users\william.rahn\source\repos\ErovDelZwei\ErovDelZwei\bin\Debug\ErovDelZwei.exe.config
+C:\Users\william.rahn\source\repos\ErovDelZwei\ErovDelZwei\bin\Debug\ErovDelZwei.exe
+C:\Users\william.rahn\source\repos\ErovDelZwei\ErovDelZwei\bin\Debug\ErovDelZwei.pdb
+C:\Users\william.rahn\source\repos\ErovDelZwei\ErovDelZwei\obj\Debug\ErovDelZwei.csprojAssemblyReference.cache
+C:\Users\william.rahn\source\repos\ErovDelZwei\ErovDelZwei\obj\Debug\ErovDelZwei.csproj.CoreCompileInputs.cache
+C:\Users\william.rahn\source\repos\ErovDelZwei\ErovDelZwei\obj\Debug\ErovDelZwei.exe
+C:\Users\william.rahn\source\repos\ErovDelZwei\ErovDelZwei\obj\Debug\ErovDelZwei.pdb
