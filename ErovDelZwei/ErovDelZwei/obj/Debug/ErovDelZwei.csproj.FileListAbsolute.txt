@@ -5,3 +5,9 @@ C:\Users\william.rahn\source\repos\ErovDelZwei\ErovDelZwei\obj\Debug\ErovDelZwei
 C:\Users\william.rahn\source\repos\ErovDelZwei\ErovDelZwei\obj\Debug\ErovDelZwei.csproj.CoreCompileInputs.cache
 C:\Users\william.rahn\source\repos\ErovDelZwei\ErovDelZwei\obj\Debug\ErovDelZwei.exe
 C:\Users\william.rahn\source\repos\ErovDelZwei\ErovDelZwei\obj\Debug\ErovDelZwei.pdb
+C:\Users\William\Documents\GitHub\E-prov-del-2\ErovDelZwei\ErovDelZwei\obj\Debug\ErovDelZwei.csprojAssemblyReference.cache
+C:\Users\William\Documents\GitHub\E-prov-del-2\ErovDelZwei\ErovDelZwei\obj\Debug\ErovDelZwei.exe
+C:\Users\William\Documents\GitHub\E-prov-del-2\ErovDelZwei\ErovDelZwei\obj\Debug\ErovDelZwei.pdb
+C:\Users\William\Documents\GitHub\E-prov-del-2\ErovDelZwei\ErovDelZwei\bin\Debug\ErovDelZwei.exe.config
+C:\Users\William\Documents\GitHub\E-prov-del-2\ErovDelZwei\ErovDelZwei\bin\Debug\ErovDelZwei.exe
+C:\Users\William\Documents\GitHub\E-prov-del-2\ErovDelZwei\ErovDelZwei\bin\Debug\ErovDelZwei.pdb
