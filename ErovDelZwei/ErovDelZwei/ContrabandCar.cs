@@ -6,15 +6,14 @@ using System.Threading.Tasks;
 
 namespace ErovDelZwei
 {
-    class ContrabandCar
+    class ContrabandCar : Car
     {
         Random shadyGenerator = new Random();
 
         public ContrabandCar()
         {
-            Car shadyCar = new Car(); //Skapar en ond bild med passagerare och stöldgods
-            shadyCar.passengers = shadyGenerator.Next(1, 4); // Slumapr fram 1 till 4 individer/passagerare
-            shadyCar.contrabandAmount = shadyGenerator.Next(1, 4); //Slumapr fram 1 till 4 stöldsgods 
+            passengers = shadyGenerator.Next(1, 5); // Slumapr fram 1 till 4 individer/passagerare
+            contrabandAmount = shadyGenerator.Next(1, 5); //Slumapr fram 1 till 4 stöldsgods 
 
         }
     }

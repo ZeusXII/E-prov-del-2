@@ -13,15 +13,14 @@ namespace ErovDelZwei
         public bool alreadyChecked;
 
         Random generator = new Random();
-
-
-
+   
         public bool Examine()
         {
             if(contrabandAmount > 0)
             {
                 alreadyChecked = true;
                 return true;
+
             }
             else
             {
